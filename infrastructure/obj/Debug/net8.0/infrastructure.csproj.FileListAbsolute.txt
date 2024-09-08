@@ -1,0 +1,5 @@
+D:\front\ECommerce Project\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.csproj.AssemblyReference.cache
+D:\front\ECommerce Project\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\front\ECommerce Project\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.AssemblyInfoInputs.cache
+D:\front\ECommerce Project\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.AssemblyInfo.cs
+D:\front\ECommerce Project\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.csproj.CoreCompileInputs.cache

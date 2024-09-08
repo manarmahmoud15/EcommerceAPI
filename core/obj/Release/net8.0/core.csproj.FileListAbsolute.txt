@@ -1,0 +1,11 @@
+D:\front\ECommerce Project\WebApplication1\core\bin\Release\net8.0\core.deps.json
+D:\front\ECommerce Project\WebApplication1\core\bin\Release\net8.0\core.dll
+D:\front\ECommerce Project\WebApplication1\core\bin\Release\net8.0\core.pdb
+D:\front\ECommerce Project\WebApplication1\core\obj\Release\net8.0\core.GeneratedMSBuildEditorConfig.editorconfig
+D:\front\ECommerce Project\WebApplication1\core\obj\Release\net8.0\core.AssemblyInfoInputs.cache
+D:\front\ECommerce Project\WebApplication1\core\obj\Release\net8.0\core.AssemblyInfo.cs
+D:\front\ECommerce Project\WebApplication1\core\obj\Release\net8.0\core.csproj.CoreCompileInputs.cache
+D:\front\ECommerce Project\WebApplication1\core\obj\Release\net8.0\core.dll
+D:\front\ECommerce Project\WebApplication1\core\obj\Release\net8.0\refint\core.dll
+D:\front\ECommerce Project\WebApplication1\core\obj\Release\net8.0\core.pdb
+D:\front\ECommerce Project\WebApplication1\core\obj\Release\net8.0\ref\core.dll
